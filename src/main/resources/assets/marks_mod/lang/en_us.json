@@ -1,0 +1,16 @@
+{
+  "item.marks_mod.pink_diamond": "Pink Diamond",
+  "item.marks_mod.metal_detector": "Ore Finder",
+
+  "block.marks_mod.pink_diamond_block": "Block of Pink Diamond",
+  "block.marks_mod.chookie_ore": "Chookie Ore",
+  "block.marks_mod.sound_block": "Sound Block",
+
+  "item.marks_mod.bubliki": "Bubliki",
+  "item.marks_mod.pine_cone": "Pine Cone",
+
+  "tooltip.marks_mod.metal_detector.tooltip": "Finds valuables underground!",
+  "tooltip.marks_mod.soundblock.tooltip": "Plays sound when right-clicked!",
+
+  "creativetab.mark_tab": "Mark's Mod Tab"
+}
