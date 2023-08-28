@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "marks_mod:item/pink_diamond_staff_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "marks_mod:item/pink_diamond_staff_2d"
+    },
+    "ground": {
+      "parent": "marks_mod:item/pink_diamond_staff_2d"
+    },
+    "fixed": {
+      "parent": "marks_mod:item/pink_diamond_staff_2d"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/door_top_right",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "bottom": "marks_mod:block/pink_diamond_door_bottom",
+    "top": "marks_mod:block/pink_diamond_door_top"
+  }
+}

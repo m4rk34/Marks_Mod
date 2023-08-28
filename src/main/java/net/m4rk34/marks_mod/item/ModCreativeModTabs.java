@@ -19,8 +19,30 @@ public class ModCreativeModTabs {
                     .title(Component.translatable("creativetab.mark_tab"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.PINK_DIAMOND.get());
+                        pOutput.accept(ModItems.PINK_DIAMOND_STAFF.get());
+
+                        pOutput.accept(ModItems.PINK_DIAMOND_SWORD.get());
+                        pOutput.accept(ModItems.PINK_DIAMOND_PICKAXE.get());
+                        pOutput.accept(ModItems.PINK_DIAMOND_AXE.get());
+                        pOutput.accept(ModItems.PINK_DIAMOND_SHOVEL.get());
+                        pOutput.accept(ModItems.PINK_DIAMOND_HOE.get());
+
+                        pOutput.accept(ModItems.PINK_DIAMOND_HELMET.get());
+                        pOutput.accept(ModItems.PINK_DIAMOND_CHESTPLATE.get());
+                        pOutput.accept(ModItems.PINK_DIAMOND_LEGGINGS.get());
+                        pOutput.accept(ModItems.PINK_DIAMOND_BOOTS.get());
 
                         pOutput.accept(ModBlocks.PINK_DIAMOND_BLOCK.get());
+
+                        pOutput.accept(ModBlocks.PINK_DIAMOND_STAIRS.get());
+                        pOutput.accept(ModBlocks.PINK_DIAMOND_SLAB.get());
+                        pOutput.accept(ModBlocks.PINK_DIAMOND_BUTTON.get());
+                        pOutput.accept(ModBlocks.PINK_DIAMOND_PRESSURE_PLATE.get());
+                        pOutput.accept(ModBlocks.PINK_DIAMOND_FENCE.get());
+                        pOutput.accept(ModBlocks.PINK_DIAMOND_FENCE_GATE.get());
+                        pOutput.accept(ModBlocks.PINK_DIAMOND_WALL.get());
+                        pOutput.accept(ModBlocks.PINK_DIAMOND_DOOR.get());
+                        pOutput.accept(ModBlocks.PINK_DIAMOND_TRAPDOOR.get());
 
                         pOutput.accept((ModBlocks.CHOOKIE_ORE.get()));
                         pOutput.accept((ModItems.METAL_DETECTOR.get()));

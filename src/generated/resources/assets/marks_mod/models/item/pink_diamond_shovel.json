@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "marks_mod:item/pink_diamond_shovel"
+  }
+}

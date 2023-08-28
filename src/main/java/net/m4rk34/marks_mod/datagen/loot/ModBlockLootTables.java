@@ -25,6 +25,22 @@ public class ModBlockLootTables extends BlockLootSubProvider{
     @Override
     protected void generate() {
         this.dropSelf(ModBlocks.PINK_DIAMOND_BLOCK.get());
+
+        this.dropSelf(ModBlocks.PINK_DIAMOND_STAIRS.get());
+        this.dropSelf(ModBlocks.PINK_DIAMOND_BUTTON.get());
+        this.dropSelf(ModBlocks.PINK_DIAMOND_PRESSURE_PLATE.get());
+        this.dropSelf(ModBlocks.PINK_DIAMOND_TRAPDOOR.get());
+        this.dropSelf(ModBlocks.PINK_DIAMOND_FENCE.get());
+        this.dropSelf(ModBlocks.PINK_DIAMOND_FENCE_GATE.get());
+        this.dropSelf(ModBlocks.PINK_DIAMOND_WALL.get());
+
+        this.add(ModBlocks.PINK_DIAMOND_SLAB.get(),
+                block -> createSlabItemTable(ModBlocks.PINK_DIAMOND_SLAB.get()));
+        this.add(ModBlocks.PINK_DIAMOND_DOOR.get(),
+                block -> createDoorTable(ModBlocks.PINK_DIAMOND_DOOR.get()));
+
+
+
         this.dropSelf(ModBlocks.SOUND_BLOCK.get());
 
         this.add(ModBlocks.CHOOKIE_ORE.get(),

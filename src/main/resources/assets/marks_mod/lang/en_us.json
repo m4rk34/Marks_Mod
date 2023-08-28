@@ -1,8 +1,30 @@
 {
   "item.marks_mod.pink_diamond": "Pink Diamond",
   "item.marks_mod.metal_detector": "Ore Finder",
+  "item.marks_mod.pink_diamond_staff": "Pink Diamond Staff",
+
+  "item.marks_mod.pink_diamond_sword": "Pink Diamond Sword",
+  "item.marks_mod.pink_diamond_pickaxe": "Pink Diamond Pickaxe",
+  "item.marks_mod.pink_diamond_axe": "Pink Diamond Axe",
+  "item.marks_mod.pink_diamond_shovel": "Pink Diamond Shovel",
+  "item.marks_mod.pink_diamond_hoe": "Pink Diamond Hoe",
+
+  "item.marks_mod.pink_diamond_helmet": "Pink Diamond Helmet",
+  "item.marks_mod.pink_diamond_chestplate": "Pink Diamond Chestplate",
+  "item.marks_mod.pink_diamond_leggings": "Pink Diamond Leggings",
+  "item.marks_mod.pink_diamond_boots": "Pink Diamond Boots",
 
   "block.marks_mod.pink_diamond_block": "Block of Pink Diamond",
+  "block.marks_mod.pink_diamond_stairs": "Pink Diamond Stairs",
+  "block.marks_mod.pink_diamond_slab": "Pink Diamond Slab",
+  "block.marks_mod.pink_diamond_button": "Pink Diamond Button",
+  "block.marks_mod.pink_diamond_pressure_plate": "Pink Diamond Pressure Plate",
+  "block.marks_mod.pink_diamond_fence": "Pink Diamond Fence",
+  "block.marks_mod.pink_diamond_fence_gate": "Pink Diamond Fence Gate",
+  "block.marks_mod.pink_diamond_wall": "Pink Diamond Wall",
+  "block.marks_mod.pink_diamond_door": "Pink Diamond Door",
+  "block.marks_mod.pink_diamond_trapdoor": "Pink Diamond Trapdoor",
+
   "block.marks_mod.chookie_ore": "Chookie Ore",
   "block.marks_mod.sound_block": "Sound Block",
 

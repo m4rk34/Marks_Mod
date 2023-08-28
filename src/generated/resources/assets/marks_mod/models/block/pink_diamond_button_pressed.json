@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_pressed",
+  "textures": {
+    "texture": "marks_mod:block/pink_diamond_block"
+  }
+}

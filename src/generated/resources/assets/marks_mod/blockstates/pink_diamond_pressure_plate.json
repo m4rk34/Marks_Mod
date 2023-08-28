@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "marks_mod:block/pink_diamond_pressure_plate"
+    },
+    "powered=true": {
+      "model": "marks_mod:block/pink_diamond_pressure_plate_down"
+    }
+  }
+}

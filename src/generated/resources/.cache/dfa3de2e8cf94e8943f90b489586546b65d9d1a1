@@ -1,0 +1,8 @@
+// 1.20.1	2023-08-26T22:01:50.6043957	Tags for minecraft:block mod id marks_mod
+c9ac624bffcb0c258ff3689c3da109350a2ed070 data/forge/tags/blocks/needs_netherite_tool.json
+6179a15da2622884b529df4b3bb14fee98b80cf6 data/marks_mod/tags/blocks/metal_detector_valuables.json
+c0fed95633dca78864816e0578b9ae544c31a9f5 data/minecraft/tags/blocks/fences.json
+36220a3fd44ad50457feaaa8b005fd5e5cd93e9d data/minecraft/tags/blocks/fence_gates.json
+3a1ec1d6c2de3f5756d06a4406c3b85361bdfe67 data/minecraft/tags/blocks/mineable/pickaxe.json
+65c3b98663a8b68fb15f6a35a7bfdf70c0bf17bf data/minecraft/tags/blocks/needs_iron_tool.json
+43d1f890e81c2d9300c58faf2485b3e91b66de90 data/minecraft/tags/blocks/walls.json
