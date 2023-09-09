@@ -1,0 +1,10 @@
+{
+  "type": "marks_mod:add_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:entities/creeper"
+    }
+  ],
+  "item": "marks_mod:pine_cone"
+}

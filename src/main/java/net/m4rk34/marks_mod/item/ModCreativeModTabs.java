@@ -50,6 +50,7 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModBlocks.SOUND_BLOCK.get());
 
                         pOutput.accept((ModItems.BUBLIKI.get()));
+                        pOutput.accept(ModItems.STRAWBERRY.get());
                         pOutput.accept((ModItems.PINE_CONE.get()));
                     })
                     .build());

@@ -46,6 +46,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.METAL_DETECTOR);
         simpleItem(ModItems.PINE_CONE);
         simpleItem(ModItems.PINK_DIAMOND);
+        simpleItem(ModItems.STRAWBERRY);
 
         simpleBlockItem(ModBlocks.PINK_DIAMOND_DOOR);
 

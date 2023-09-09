@@ -4,6 +4,7 @@ import com.mojang.logging.LogUtils;
 import net.m4rk34.marks_mod.block.ModBlocks;
 import net.m4rk34.marks_mod.item.ModCreativeModTabs;
 import net.m4rk34.marks_mod.item.ModItems;
+import net.m4rk34.marks_mod.loot.ModLootModifiers;
 import net.minecraft.client.Minecraft;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
@@ -33,6 +34,8 @@ public class ExampleMod
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+
+        ModLootModifiers.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 

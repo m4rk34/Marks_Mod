@@ -1,0 +1,6 @@
+// 1.20.1	2023-09-08T17:16:07.5785158	Global Loot Modifiers : marks_mod
+e58da4b75dfe9118600b010907c59f443580aad2 data/forge/loot_modifiers/global_loot_modifiers.json
+744e488faf28c3e47d617335119939a1a449f238 data/marks_mod/loot_modifiers/metal_detector_from_jungle_temples.json
+cf41112a74f72ecb0e249a1bdbf7a630dbd169cf data/marks_mod/loot_modifiers/metal_detector_from_suspicious_sand.json
+decab71a4527f4269334f05350a2dc90abe06e97 data/marks_mod/loot_modifiers/pine_cone_from_creeper.json
+c837cbc162924547c7bf4f21437bc81fb8ae729e data/marks_mod/loot_modifiers/pine_cone_from_grass.json
